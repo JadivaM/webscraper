@@ -1,6 +1,6 @@
 # Hacker News Web Scraper
 
--This is a Web scraper app using Puppeteer and React that retrieves information from the Hacker News website. It filters and retrieves only articles that have upvotes higher than 100 so that users only get the highest rated articles. Users are able to view the title of the article, number of votes, and can click on the link to access the article.
+-This is a Web scraper app using Puppeteer and React that retrieves information from the Hacker News website. It filters and retrieves only articles that have upvotes higher than 100 so that users only get the highest rated articles. Users are able to view the title of the article, number of votes, and can click on the link to access the article. It was styled using React Bootstrap.
 
 ## Setup
 
